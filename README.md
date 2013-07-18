@@ -5,3 +5,4 @@ Some new changes
 
 hello
 
+Hello, too.
